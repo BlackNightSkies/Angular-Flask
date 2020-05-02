@@ -10,6 +10,6 @@ Environment setup is up to user preference, but my particular setup is as follow
 - IDE: PyCharm Community Edition 19.3.3
 - OS: Windows 10
 - Libraries/Dependencies
--- Flask 1.1.2
--- Jinja 2.11.2
--- Werkzeug 1.0.1
+  -Flask 1.1.2
+  - Jinja 2.11.2
+  - Werkzeug 1.0.1

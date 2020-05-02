@@ -13,3 +13,27 @@ Environment setup is up to user preference, but my particular setup is as follow
   - Flask 1.1.2
   - Jinja 2.11.2
   - Werkzeug 1.0.1
+
+All libraries, dependencies and code were kept and updated within the same local folder on my machine, which then became my local GitHub repository that I have uploaded here.
+
+## File Structure
+```
+Angular-Flask
+├── .idea
+│   └── PyCharm specific configuration files
+├── Include
+│   └── No Files
+├── Lib
+│   └── All project libraries and dependencies
+├── Scripts
+│   └── All project scripts, such as Python and Flask executables that are save within the Virtual Environment created with PyCharm   
+├── static
+│   └── main.css
+├── templates
+│   ├── about.html
+│   ├── home.html
+│   └── layout.html
+├── flaskblog.py (going to change name eventually)
+├── pyvenv.cfg (PyCharm Virtual Environment configuration file)
+└── README.md (duh)
+```
